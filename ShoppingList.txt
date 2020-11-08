@@ -3,4 +3,5 @@ Apples
 Kiwi
 Avocado
 Oranges
-
+Cereal
+Bread
